@@ -12,7 +12,7 @@
 # * `no of cards remaining in deck - <number>` should dsiplay on printing any deck object.
 
 # `Card` class
-# * It is a class of card
+# * It is a class of card 
 # * Atrributes - `suit` and `value`
 # * `<suit> of <value>` should dsiplay on printing any card object.
 
